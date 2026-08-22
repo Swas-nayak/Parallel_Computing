@@ -1,12 +1,7 @@
-# BCS702 – Parallel Computing Lab
+# Parallel Computing Lab
 
-This repository contains the practical programs and experiments for **BCS702 – Parallel Computing Lab**, covering **OpenMP** and **MPI** programming concepts.
+This repository contains the practical programs and experiments for ** Parallel Computing **, covering **OpenMP** and **MPI** programming concepts.
 
-## Course Information
-
-**Course Code:** BCS702
-**Course Title:** Parallel Computing Lab
-**Practical Component:** IPCC
 
 ## Experiments
 
